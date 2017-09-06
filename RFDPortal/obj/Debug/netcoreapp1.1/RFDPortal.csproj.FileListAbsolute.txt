@@ -1,0 +1,9 @@
+C:\Dev\RFDPortal\RFDPortal\bin\Debug\netcoreapp1.1\RFDPortal.deps.json
+C:\Dev\RFDPortal\RFDPortal\bin\Debug\netcoreapp1.1\RFDPortal.runtimeconfig.json
+C:\Dev\RFDPortal\RFDPortal\bin\Debug\netcoreapp1.1\RFDPortal.runtimeconfig.dev.json
+C:\Dev\RFDPortal\RFDPortal\bin\Debug\netcoreapp1.1\RFDPortal.dll
+C:\Dev\RFDPortal\RFDPortal\obj\Debug\netcoreapp1.1\RFDPortal.csprojResolveAssemblyReference.cache
+C:\Dev\RFDPortal\RFDPortal\obj\Debug\netcoreapp1.1\RFDPortal.AssemblyInfo.cs
+C:\Dev\RFDPortal\RFDPortal\bin\Debug\netcoreapp1.1\RFDPortal.pdb
+C:\Dev\RFDPortal\RFDPortal\obj\Debug\netcoreapp1.1\RFDPortal.dll
+C:\Dev\RFDPortal\RFDPortal\obj\Debug\netcoreapp1.1\RFDPortal.pdb
